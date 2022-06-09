@@ -19,3 +19,11 @@ Attending Noroff's classes on Front End Development for 2 years, i managed to cu
 - NPM
 - NEXTJS
 - TS
+  
+### More
+[Portfolio](https://marius-saeteraas-portfolio.netlify.app/)  
+[LinkedIn](https://www.linkedin.com/in/marius-s%C3%A6teraas-4395151b4/)  
+  
+You will find my finnished projects in my portfolio :v:  
+
+### Contact

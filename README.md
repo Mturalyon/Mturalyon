@@ -1,6 +1,6 @@
 ## :smile: Hello my name is Marius! :wave:
 
-### About me:  
+### About me:
 :mortar_board: Front End Development at - Noroff School of technology and digital media  
 :wrench: Technical Consultant at - Signicat  
   
@@ -27,3 +27,5 @@ Attending Noroff's classes on Front End Development for 2 years, i managed to cu
 You will find my finnished projects in my portfolio :v:  
 
 ### Contact
+:telephone_receiver: +47 93821738  
+:envelope: marius.turalyon@outlook.com

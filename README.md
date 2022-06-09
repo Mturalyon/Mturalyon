@@ -8,7 +8,7 @@ Born and Raised in Trondheim 1994. My biggest passion is technology and all the 
 After many years working in different fields, i found the opportunity to start my career within web development.  
 Attending Noroff's classes on Front End Development for 2 years, i managed to cultivate my love for the web and all the technologies surrounding it.  
   
-#### Technologies
+### Technologies
 - HTML
 - CSS
 - JS
